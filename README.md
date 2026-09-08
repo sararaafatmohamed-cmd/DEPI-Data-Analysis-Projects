@@ -1,9 +1,8 @@
-# DEPI-Data-Analysis-Projects
-Data Analysis projects completed during DEPI training, covering Power BI, Power Query, and Excel.
+# DEPI Data Analysis Projects
 
-A collection of data analysis projects completed during my **Digital Egypt Pioneers Initiative (DEPI)** training in the Data Analysis track.
+A collection of practical **Data Analysis projects** completed during my **Digital Egypt Pioneers Initiative (DEPI)** training in the Data Analysis track.
 
-The projects cover practical applications of **Power BI, Power Query, and Excel**, with a focus on data cleaning, transformation, data modeling, analysis, and extracting business insights.
+These projects focus on **data cleaning, transformation, data modeling, analysis, and business insights** using Power BI, Power Query, and Microsoft Excel.
 
 ---
 
@@ -13,15 +12,23 @@ The projects cover practical applications of **Power BI, Power Query, and Excel*
 
 **Dataset:** Video Game Sales
 
-**Key Work:**
+#### Key Work
 
-* Data cleaning and transformation using Power Query
-* Error handling using Replace Errors
-* Created Fact and Dimension tables
-* Built a structured data model
+* Performed data cleaning and transformation using Power Query.
+* Used Replace Errors for data quality issues.
+* Split the dataset into Fact and Dimension tables.
+* Created:
 
-**Main Concepts:**
-`Data Cleaning` `Power Query` `Data Modeling` `Fact & Dimension Tables`
+  * `Fact_Sales`
+  * `Dim_Game`
+  * `Dim_Platform`
+  * `Dim_Publisher`
+  * `Dim_Year`
+* Built a structured data model for analysis.
+
+#### Main Concepts
+
+`Power BI` `Power Query` `Data Cleaning` `Data Transformation` `Data Modeling` `Fact & Dimension Tables`
 
 ---
 
@@ -29,18 +36,20 @@ The projects cover practical applications of **Power BI, Power Query, and Excel*
 
 **Dataset:** Sales Orders
 
-**Key Work:**
+#### Key Work
 
-* Cleaned and transformed a messy dataset
-* Created Fact and Dimension tables
-* Added custom and conditional columns
-* Extracted Year and Month from dates
-* Used Pivot and Unpivot transformations
-* Removed duplicates from dimension keys
-* Applied locale settings for date transformation
+* Cleaned and transformed a messy dataset using Power Query.
+* Created Fact and Dimension tables.
+* Added Custom Columns and Conditional Columns.
+* Extracted Year and Month from Order Date.
+* Used Split by Delimiter.
+* Applied locale settings for date transformation.
+* Used Pivot and Unpivot transformations.
+* Removed duplicates to ensure unique dimension keys.
 
-**Main Concepts:**
-`Power Query` `Data Cleaning` `Data Transformation` `Data Modeling`
+#### Main Concepts
+
+`Power BI` `Power Query` `Data Cleaning` `Data Transformation` `Data Modeling` `Pivot` `Unpivot`
 
 ---
 
@@ -48,17 +57,19 @@ The projects cover practical applications of **Power BI, Power Query, and Excel*
 
 **Dataset:** Car Sales
 
-**Key Work:**
+#### Key Work
 
-* Created Fact and Dimension tables
-* Created custom keys for customers and sellers
-* Added price categories using Conditional Columns
-* Created a Date Dimension
-* Added Year, Month, and Quarter attributes
-* Removed duplicated dimension records
+* Created a Fact table and multiple Dimension tables.
+* Created custom keys for customers and sellers.
+* Added price categories using Conditional Columns.
+* Created a Date Dimension.
+* Added Year, Month, and Quarter attributes.
+* Removed duplicate dimension records.
+* Transformed the raw dataset into a structured model suitable for analysis.
 
-**Main Concepts:**
-`Power Query` `Data Modeling` `Keys` `Date Dimension` `Data Transformation`
+#### Main Concepts
+
+`Power BI` `Power Query` `Data Modeling` `Keys` `Date Dimension` `Data Transformation`
 
 ---
 
@@ -66,20 +77,22 @@ The projects cover practical applications of **Power BI, Power Query, and Excel*
 
 **Dataset:** Coffee Sales
 
-**Key Work:**
+#### Key Work
 
-* Performed initial data profiling
-* Checked data types, nulls, errors, and column structure
-* Removed unnecessary sensitive customer information
-* Appended multiple coffee sales tables
-* Created a final Fact table
-* Added price categories
-* Created time-period classifications
-* Cleaned and standardized text data
-* Created a Date Dimension
+* Performed initial data profiling.
+* Checked column names, data types, nulls, and errors.
+* Removed unnecessary sensitive customer information.
+* Cleaned multiple coffee sales tables.
+* Appended the sales tables into a final Fact table.
+* Created `Fact_Final_Coffee_Sales`.
+* Added Price Category classifications.
+* Created Time Period classifications.
+* Cleaned and standardized text data.
+* Created a Date Dimension with Year, Month, and Quarter.
 
-**Main Concepts:**
-`Data Profiling` `Power Query` `Data Cleaning` `Append` `Data Modeling`
+#### Main Concepts
+
+`Power BI` `Power Query` `Data Profiling` `Data Cleaning` `Append` `Data Modeling` `Date Dimension`
 
 ---
 
@@ -87,107 +100,186 @@ The projects cover practical applications of **Power BI, Power Query, and Excel*
 
 ### 01. Bakery Sales
 
-**Dataset:** Bakery Sales
+**File:** `Bakery trail 2.xlsx`
 
-**Key Work:**
+#### Key Work
 
-* Data profiling and cleaning
-* Removed empty and unnecessary columns
-* Created a Date Dimension
-* Used Unpivot to restructure product data
-* Cleaned product names
-* Merged sales data with product prices
-* Calculated total sales using price and quantity
-* Created Excel summaries and slicers
-* Used Conditional Formatting
+* Performed data profiling and cleaning.
+* Removed empty and unnecessary columns.
+* Created a Date Dimension.
+* Used Unpivot to restructure product data.
+* Cleaned and standardized product names.
+* Merged sales data with product prices.
+* Calculated Total Sales using price and quantity.
+* Replaced missing place values with `Other`.
+* Created Excel summaries.
+* Added Slicers.
+* Used Conditional Formatting.
 
-**Main Concepts:**
-`Excel` `Power Query` `Unpivot` `Merge` `Data Cleaning` `Slicers`
+#### Analysis
+
+The project includes summaries for:
+
+* Top Selling Products
+* Sales by Time
+* Sales by Place
+
+#### Project Preview
+
+![Bakery Sales Summary 1](Bakery-Sales/Summary_1.png)
+
+![Bakery Sales Summary 2](Bakery-Sales/Summary_2.png)
+
+#### Main Concepts
+
+`Excel` `Power Query` `Data Cleaning` `Unpivot` `Merge` `Custom Column` `Slicers` `Conditional Formatting`
 
 ---
 
-### 02. Sales Performance / Orders
+### 02. Sales Performance
 
-**Dataset:** Sales Orders
+**File:** `Model1 Trail1.xlsx`
 
 **Problem Statement:**
-Analyze sales performance to identify the key factors driving sales.
+Analyze Sales Performance to identify the key factors driving sales.
 
-**Key Work:**
+#### Key Work
 
-* Cleaned and transformed order data
-* Created Fact and Dimension tables
-* Built relationships using the Excel Data Model
-* Created Order Date and Ship Date dimensions
-* Calculated Shipping Days
-* Used Pivot Tables to analyze sales performance
+* Cleaned and transformed order data using Power Query.
+* Removed unnecessary system-generated fields.
+* Converted dates using Locale.
+* Changed Postal Code to Text because it is an identifier rather than a measure.
+* Created Fact and Dimension tables.
+* Created:
 
-**Business Questions:**
+  * `Fact Orders`
+  * `Dim Customer`
+  * `Dim Location`
+  * `Dim Product`
+  * `Dim Order Date`
+  * `Dim Ship Date`
+* Calculated Shipping Days.
+* Removed duplicate dimension records.
+* Created Year and Month attributes.
+* Built relationships using the Excel Data Model.
+* Created Pivot Tables to answer business questions.
 
-* Which products generate the highest and lowest total sales?
-* Which products have the shortest and longest shipping times?
-* Which product categories generate the highest and lowest total sales?
-* Which regions have the highest and lowest total sales?
-* Which customer segments generate the highest and lowest total sales?
+#### Business Questions
 
-**Main Concepts:**
-`Excel` `Power Query` `Data Modeling` `Data Model` `Pivot Tables` `Business Analysis`
+1. Which products generate the highest and lowest total sales?
+2. Which products have the shortest and longest shipping times?
+3. Which product categories generate the highest and lowest total sales?
+4. Which regions have the highest and lowest total sales?
+5. Which customer segments generate the highest and lowest total sales?
+
+#### Project Preview
+
+![Sales Performance Pivot Analysis 1](Sales-Performance/Pivot_Analysis_1.png)
+
+![Sales Performance Pivot Analysis 2](Sales-Performance/Pivot_Analysis_2.png)
+
+![Sales Performance Pivot Analysis 3](Sales-Performance/Pivot_Analysis_3.png)
+
+#### Main Concepts
+
+`Excel` `Power Query` `Data Cleaning` `Data Modeling` `Data Model` `Pivot Tables` `Business Analysis`
 
 ---
 
 ### 03. Pizza Sales
 
-**Dataset:** Pizza Place Sales
+**File:** `Pizza Task Trail 1.xlsx`
 
 **Problem Statement:**
-Analyze pizza sales performance and identify sales trends.
+Analyze Pizza Sales Performance and identify sales trends.
 
-**Key Work:**
+#### Key Work
 
-* Built a Star Schema
-* Created a Fact table from transactional data
-* Used Merge to combine related tables
-* Calculated Total Sales
-* Created a Pizza Dimension
-* Created a Date Dimension
-* Added Year, Month, and Day attributes
-* Created Pivot Tables and charts
+* Built a Star Schema.
+* Created a Fact table from transactional data.
+* Merged the Fact table with pizza data to obtain prices.
+* Calculated Total Sales.
+* Merged order information to obtain Date and Time.
+* Created a Pizza Dimension.
+* Merged pizza information with Pizza Types.
+* Created a Date Dimension.
+* Added Year, Month Name, and Day Name.
+* Created Pivot Tables and Charts for analysis.
 
-**Business Questions:**
+#### Business Questions
 
-* What are the best-selling and least-selling pizza types?
-* What percentage of total sales is generated on each day of the week?
-* Which pizza categories generate the highest and lowest sales?
-* Which pizza types generate the highest and lowest sales?
-* How do sales vary across the months of the year?
+1. What are the best-selling and least-selling pizza types by quantity sold?
+2. What percentage of total sales is generated on each day of the week?
+3. Which pizza categories generate the highest and lowest sales?
+4. Which pizza types generate the highest and lowest sales?
+5. How do sales vary across the months of the year?
 
-**Main Concepts:**
-`Excel` `Power Query` `Star Schema` `Data Modeling` `Pivot Tables` `Data Visualization`
+#### Project Preview
+
+![Pizza Sales Analysis 1](Pizza-Sales/Chart_Pivot_1.png)
+
+![Pizza Sales Analysis 2](Pizza-Sales/Chart_Pivot_2.png)
+
+![Pizza Sales Analysis 3](Pizza-Sales/Chart_Pivot_3.png)
+
+![Pizza Sales Analysis 4](Pizza-Sales/Chart_Pivot_4.png)
+
+#### Main Concepts
+
+`Excel` `Power Query` `Star Schema` `Data Modeling` `Pivot Tables` `Data Visualization` `Sales Analysis`
 
 ---
 
 ## 🛠️ Tools & Skills
 
-* **Power BI**
-* **Power Query**
-* **Microsoft Excel**
+### Tools
+
+* Power BI
+* Power Query
+* Microsoft Excel
+
+### Data Analysis Skills
+
 * Data Cleaning
-* Data Transformation
 * Data Profiling
+* Data Transformation
 * Data Modeling
 * Fact & Dimension Tables
 * Star Schema
+* Data Integration
 * Pivot Tables
 * Data Visualization
 * Business Questions & Insights
 
+### Power Query Techniques
+
+* Merge
+* Append
+* Pivot
+* Unpivot
+* Split by Delimiter
+* Replace Values
+* Replace Errors
+* Conditional Columns
+* Custom Columns
+* Remove Duplicates
+* Date & Time Transformations
+* Text Cleaning
+
 ---
 
-## 🎯 About This Repository
+## 🎯 Learning Outcomes
 
-These projects were completed as part of my **DEPI Data Analysis training** and represent hands-on practice with real-world-style datasets.
+Through these projects, I gained hands-on experience in:
 
-Through these projects, I practiced transforming raw data into structured and analysis-ready datasets and answering business questions using analytical tools.
+* Preparing raw datasets for analysis.
+* Identifying and handling data quality issues.
+* Transforming unstructured data into analysis-ready datasets.
+* Designing Fact and Dimension tables.
+* Building structured data models.
+* Applying Power Query transformations.
+* Using Excel Pivot Tables and Charts to answer business questions.
+* Extracting meaningful insights from sales data.
 
 ---
 
@@ -196,7 +288,7 @@ Through these projects, I practiced transforming raw data into structured and an
 **Sara Raafat**
 Business Information Systems Student | Aspiring Data Analyst
 
-Interested in **Data Analysis, Business Intelligence, and Data Visualization**, with a focus on continuous learning and practical problem-solving.
+I am interested in **Data Analysis, Business Intelligence, and Data Visualization**, with a focus on continuous learning and developing practical analytical skills.
 
 ### Connect with me
 
