@@ -126,9 +126,9 @@ The project includes summaries for:
 
 #### Project Preview
 
-![Bakery Sales Summary 1](Bakery-Sales/Summary_1.png)
+![Bakery Sales Summary 1](Excel-Power-Query/Bakery-Sales/Summary_1.png)
 
-![Bakery Sales Summary 2](Bakery-Sales/Summary_2.png)
+![Bakery Sales Summary 2](Excel-Power-Query/Bakery-Sales/Summary_2.png)
 
 #### Main Concepts
 
@@ -215,14 +215,13 @@ Analyze Pizza Sales Performance and identify sales trends.
 
 #### Project Preview
 
-![Pizza Sales Analysis 1](Pizza-Sales/Chart_Pivot_1.png)
+![Pizza Sales - Analysis 1](Excel-Power-Query/Pizza-Sales/Chart_Pivot_1.png)
 
-![Pizza Sales Analysis 2](Pizza-Sales/Chart_Pivot_2.png)
+![Pizza Sales - Analysis 2](Excel-Power-Query/Pizza-Sales/Chart_Pivot_2.png)
 
-![Pizza Sales Analysis 3](Pizza-Sales/Chart_Pivot_3.png)
+![Pizza Sales - Analysis 3](Excel-Power-Query/Pizza-Sales/Chart_Pivot_3.png)
 
-![Pizza Sales Analysis 4](Pizza-Sales/Chart_Pivot_4.png)
-
+![Pizza Sales - Analysis 4](Excel-Power-Query/Pizza-Sales/Chart_Pivot_4.png)
 #### Main Concepts
 
 `Excel` `Power Query` `Star Schema` `Data Modeling` `Pivot Tables` `Data Visualization` `Sales Analysis`
