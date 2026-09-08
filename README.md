@@ -10,6 +10,8 @@ These projects focus on **data cleaning, transformation, data modeling, analysis
 
 ### 01. Video Game Sales
 
+**File:** [01_Video_Game_Sales.pbix](Power-BI-Power-Query/01_Video_Game_Sales.pbix)
+
 **Dataset:** Video Game Sales
 
 #### Key Work
@@ -34,6 +36,8 @@ These projects focus on **data cleaning, transformation, data modeling, analysis
 
 ### 02. Sales Orders
 
+**File:** [02_Sales_Orders.pbix](Power-BI-Power-Query/02_Sales_Orders.pbix)
+
 **Dataset:** Sales Orders
 
 #### Key Work
@@ -55,6 +59,8 @@ These projects focus on **data cleaning, transformation, data modeling, analysis
 
 ### 03. Car Sales
 
+**File:** [03_Car_Sales.pbix](Power-BI-Power-Query/03_Car_Sales.pbix)
+
 **Dataset:** Car Sales
 
 #### Key Work
@@ -74,6 +80,8 @@ These projects focus on **data cleaning, transformation, data modeling, analysis
 ---
 
 ### 04. Coffee Sales
+
+**File:** [04_Coffee_Sales.pbix](Power-BI-Power-Query/04_Coffee_Sales.pbix)
 
 **Dataset:** Coffee Sales
 
@@ -100,7 +108,7 @@ These projects focus on **data cleaning, transformation, data modeling, analysis
 
 ### 01. Bakery Sales
 
-**File:** `Bakery trail 2.xlsx`
+**File:** [Bakery trail 2.xlsx](Excel-Power-Query/Bakery-Sales/Bakery%20trail%202.xlsx)
 
 #### Key Work
 
@@ -138,7 +146,7 @@ The project includes summaries for:
 
 ### 02. Sales Performance
 
-**File:** `Model1 Trail1.xlsx`
+**File:** [Model1 Trial1.xlsx](Excel-Power-Query/Sales-Performance/Model1%20Trial1.xlsx)
 
 **Problem Statement:**
 Analyze Sales Performance to identify the key factors driving sales.
@@ -179,6 +187,7 @@ Analyze Sales Performance to identify the key factors driving sales.
 ![Sales Performance - Analysis 2](Excel-Power-Query/Sales-Performance/Pivot_Analysis_2.png)
 
 ![Sales Performance - Analysis 3](Excel-Power-Query/Sales-Performance/Pivot_Analysis_3.png)
+
 #### Main Concepts
 
 `Excel` `Power Query` `Data Cleaning` `Data Modeling` `Data Model` `Pivot Tables` `Business Analysis`
@@ -187,7 +196,7 @@ Analyze Sales Performance to identify the key factors driving sales.
 
 ### 03. Pizza Sales
 
-**File:** `Pizza Task Trail 1.xlsx`
+**File:** [Pizza Task Trail 1.xlsx](Excel-Power-Query/Pizza-Sales/Pizza%20Task%20Trail%201.xlsx)
 
 **Problem Statement:**
 Analyze Pizza Sales Performance and identify sales trends.
@@ -222,6 +231,7 @@ Analyze Pizza Sales Performance and identify sales trends.
 ![Pizza Sales - Analysis 3](Excel-Power-Query/Pizza-Sales/Chart_Pivot_3.png)
 
 ![Pizza Sales - Analysis 4](Excel-Power-Query/Pizza-Sales/Chart_Pivot_4.png)
+
 #### Main Concepts
 
 `Excel` `Power Query` `Star Schema` `Data Modeling` `Pivot Tables` `Data Visualization` `Sales Analysis`
@@ -290,6 +300,6 @@ I am interested in **Data Analysis, Business Intelligence, and Data Visualizatio
 
 ### Connect with me
 
-* [GitHub](https://github.com/sararaafatmohamed-cmd)
-* [LinkedIn](https://www.linkedin.com/in/sarah-raafat-639a88259)
-* [Portfolio](https://sararaafatmohamed-cmd.github.io/sara-raafat-portfolio/)
+* GitHub
+* LinkedIn
+* Portfolio
