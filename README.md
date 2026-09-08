@@ -174,12 +174,11 @@ Analyze Sales Performance to identify the key factors driving sales.
 
 #### Project Preview
 
-![Sales Performance Pivot Analysis 1](Sales-Performance/Pivot_Analysis_1.png)
+![Sales Performance - Analysis 1](Excel-Power-Query/Sales-Performance/Pivot_Analysis_1.png)
 
-![Sales Performance Pivot Analysis 2](Sales-Performance/Pivot_Analysis_2.png)
+![Sales Performance - Analysis 2](Excel-Power-Query/Sales-Performance/Pivot_Analysis_2.png)
 
-![Sales Performance Pivot Analysis 3](Sales-Performance/Pivot_Analysis_3.png)
-
+![Sales Performance - Analysis 3](Excel-Power-Query/Sales-Performance/Pivot_Analysis_3.png)
 #### Main Concepts
 
 `Excel` `Power Query` `Data Cleaning` `Data Modeling` `Data Model` `Pivot Tables` `Business Analysis`
