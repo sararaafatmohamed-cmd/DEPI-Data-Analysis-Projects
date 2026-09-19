@@ -1,12 +1,12 @@
-# DEPI Data Analysis Projects
+# 📊 DEPI Data Analysis Projects
 
-Data Analysis projects completed during **DEPI training**, covering **Power BI, Power Query, and Excel**.
+Data Analysis projects completed during **DEPI training**, covering **Power BI, Power Query, Excel, SQL, and data modeling**.
 
 ---
 
-## 📊 Power BI & Power Query Projects
+# 📊 Power BI & Power Query Projects
 
-### 01. Video Game Sales
+## 01. Video Game Sales
 
 **File:** [Up_T1_S1_Video_Game_Sales.pbix](Power-BI-Power-Query/Power-BI-Power-Query/Up_T1_S1_Video_Game_Sales.pbix)
 
@@ -31,7 +31,7 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 ---
 
-### 02. Sales Orders
+## 02. Sales Orders
 
 **File:** [S2_Sales_Orders.pbix](Power-BI-Power-Query/Power-BI-Power-Query/S2_Sales_Orders.pbix)
 
@@ -59,7 +59,7 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 ---
 
-### 03. Car Sales
+## 03. Car Sales
 
 **File:** [T2_S2_Car_Sales.pbix](Power-BI-Power-Query/Power-BI-Power-Query/T2_S2_Car_Sales.pbix)
 
@@ -85,7 +85,7 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 ---
 
-### 04. Coffee Sales
+## 04. Coffee Sales
 
 **File:** [Up_T3_S2_Coffee_Sales.pbix](Power-BI-Power-Query/Power-BI-Power-Query/Up_T3_S2_Coffee_Sales.pbix)
 
@@ -107,6 +107,53 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 * Fact_Final_Coffee_Sales
 * Dim_Date
+
+---
+
+## 05. Pizza Sales – SQL & Power BI
+
+**File:** [PizzaDB.sql](Pizza-Sales-SQL-PowerBI/PizzaDB.sql)
+**Dashboard:** [Power BI & SQL Pizza Project.pbix](Pizza-Sales-SQL-PowerBI/Power%20BI%20%26%20SQL%20Pizza%20Project.pbix)
+
+**Tools:** SQL Server, Power BI
+
+**Key Tasks:**
+
+* Creating and working with a SQL database
+* Writing SQL queries for sales analysis
+* Analyzing revenue and orders
+* Analyzing pizza sales by category
+* Identifying best and worst performing pizzas
+* Analyzing sales trends by day and month
+* Building an interactive Power BI dashboard
+
+**Dashboard Preview:**
+
+![Pizza Dashboard 1](Pizza-Sales-SQL-PowerBI/Pizza_Dashboard_1.png)
+
+![Pizza Dashboard 2](Pizza-Sales-SQL-PowerBI/Pizza_Dashboard_2.png)
+
+---
+
+## 06. Books Sales & Ratings
+
+**File:** [Books Sales Trial1.Pbix](Books-Sales-PowerBI/Books%20Sales%20Trial1.Pbix)
+
+**Tools:** Power BI, Power Query
+
+**Key Tasks:**
+
+* Data cleaning and transformation
+* Analyzing book sales and publisher revenue
+* Analyzing book ratings
+* Exploring author performance
+* Analyzing genres and languages
+* Exploring publishing trends
+* Building an interactive Power BI dashboard
+
+**Dashboard Preview:**
+
+![Books Dashboard](Books-Sales-PowerBI/Books_Dashboard_2.png)
 
 ---
 
@@ -169,7 +216,47 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 ---
 
-## 03. Pizza Sales
+## 03. Superstore 2019
+
+**File:** [Superstore 2019](Superstore-2019/)
+
+**Tools:** Excel, Power Query, Power Pivot
+
+**Key Tasks:**
+
+* Data cleaning and transformation
+* Building a structured data model
+* Creating fact and dimension tables
+* Analyzing sales and profit performance
+* Creating Pivot Tables
+* Building an interactive Excel dashboard
+* Generating business insights
+
+**Data Model:**
+
+* Orders
+* Customers
+* Products
+* Categories
+* Locations
+* Order Date
+* Ship Date
+* Returns
+
+### Key Insights
+
+* 🥇 High Speed Automatic Electric Letter Opener had the highest sales at **$17,030.31**
+* 📅 November recorded the highest monthly sales at **$352,461**
+* 📉 February recorded the lowest monthly sales at **$59,751**
+* 🏷️ Labels generated the highest share among the categories
+
+### Project Preview
+
+![Superstore 2019 Dashboard](Superstore-2019/dashboard.png)
+
+---
+
+## 04. Pizza Sales
 
 **File:** [Pizza Task Trial 1.xlsx](Excel-Power-Query/Pizza-Sales/Pizza%20Task%20Trial%201.xlsx)
 
@@ -200,11 +287,13 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 * Power BI
 * Power Query
 * Microsoft Excel
+* Power Pivot
+* SQL Server
 * Data Cleaning
 * Data Transformation
 * Data Modeling
@@ -214,7 +303,7 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Sara Raafat**
 
