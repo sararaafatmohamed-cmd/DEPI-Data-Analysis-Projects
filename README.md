@@ -163,8 +163,8 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 **Files:**
 
-* [HR Analytics Dashboard.pbix](Power-BI-Power-Query/HR-Analytics-PowerBI/HR%20Analytics%20Dashboard.pbix)
-* [HR-Analytics.png](Power-BI-Power-Query/HR-Analytics-PowerBI/HR-Analytics.png)
+* [HR Analytics Dashboard.pbix](HR-Analytics-PowerBI/HR%20Analytics%20Dashboard.pbix)
+* [HR-Analytics.png](HR-Analytics-PowerBI/HR-Analytics.png)
 
 **Tools:** Power BI, Power Query
 
@@ -181,7 +181,7 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 **Dashboard Preview:**
 
-![HR Analytics Dashboard](https://raw.githubusercontent.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/main/Power-BI-Power-Query/HR-Analytics-PowerBI/HR-Analytics.png)
+![HR Analytics Dashboard](HR-Analytics-PowerBI/HR-Analytics.png)
 
 **Learning Source:**
 
@@ -322,24 +322,3 @@ This project was completed as a guided learning project based on a Power BI tuto
 ---
 
 # 🛠️ Tools & Technologies
-
-* Power BI
-* Power Query
-* Microsoft Excel
-* Power Pivot
-* SQL Server
-* Data Cleaning
-* Data Transformation
-* Data Modeling
-* Pivot Tables
-* Data Visualization
-* Star Schema
-
----
-
-# 👩‍💻 Author
-
-**Sara Raafat**
-
-Business Information Systems Student
-Aspiring Data Analyst
