@@ -181,7 +181,7 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 **Dashboard Preview:**
 
-![HR Analytics Dashboard](Power-BI-Power-Query/HR-Analytics-PowerBI/HR-Analytics.png)
+![HR Analytics Dashboard](https://raw.githubusercontent.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/main/Power-BI-Power-Query/HR-Analytics-PowerBI/HR-Analytics.png)
 
 **Learning Source:**
 
