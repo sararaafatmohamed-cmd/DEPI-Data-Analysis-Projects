@@ -112,8 +112,10 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 
 ## 05. Pizza Sales – SQL & Power BI
 
-**File:** [PizzaDB.sql](Pizza-Sales-SQL-PowerBI/PizzaDB.sql)
-**Dashboard:** [Power BI & SQL Pizza Project.pbix](Pizza-Sales-SQL-PowerBI/Power%20BI%20%26%20SQL%20Pizza%20Project.pbix)
+**Files:**
+
+* [PizzaDB.sql](Pizza-Sales-SQL-PowerBI/PizzaDB.sql)
+* [Power BI & SQL Pizza Project.pbix](Pizza-Sales-SQL-PowerBI/Power%20BI%20%26%20SQL%20Pizza%20Project.pbix)
 
 **Tools:** SQL Server, Power BI
 
@@ -154,6 +156,38 @@ Data Analysis projects completed during **DEPI training**, covering **Power BI, 
 **Dashboard Preview:**
 
 ![Books Dashboard](Books-Sales-PowerBI/Books_Dashboard_2.png)
+
+---
+
+## 07. HR Analytics Dashboard
+
+**Files:**
+
+* [HR Analytics Dashboard.pbix](Power-BI-Power-Query/HR-Analytics-PowerBI/HR%20Analytics%20Dashboard.pbix)
+* [HR-Analytics.png](Power-BI-Power-Query/HR-Analytics-PowerBI/HR-Analytics.png)
+
+**Tools:** Power BI, Power Query
+
+**Key Tasks:**
+
+* Data cleaning and transformation
+* Analyzing employee data
+* Exploring employee demographics
+* Analyzing workforce distribution
+* Analyzing departments
+* Exploring hiring trends
+* Analyzing key HR metrics
+* Building an interactive HR dashboard
+
+**Dashboard Preview:**
+
+![HR Analytics Dashboard](Power-BI-Power-Query/HR-Analytics-PowerBI/HR-Analytics.png)
+
+**Learning Source:**
+
+This project was completed as a guided learning project based on a Power BI tutorial.
+
+[YouTube Tutorial](https://www.youtube.com/watch?v=QcTeeBrL6EY)
 
 ---
 
