@@ -128,7 +128,6 @@ An end-to-end sales analysis project using SQL Server and Power BI.
 
 ![Pizza Dashboard 1](Pizza-Sales-SQL-PowerBI/Pizza_Dashboard_1.png)
 
-![Pizza Dashboard 2](Pizza-Sales-SQL-PowerBI/Pizza_Dashboard_2.png)
 
 ---
 
@@ -152,18 +151,17 @@ A Power BI project focused on book sales, publisher revenue, ratings, authors, g
 
 An HR analytics project focused on employee data, workforce distribution, demographics, departments, hiring trends, and key HR metrics.
 
-[View Project →](Power-BI-Power-Query/HR-Analytics-PowerBI/)
+[View Project →](HR-Analytics-PowerBI/)
 
 **Dashboard Preview:**
 
-![HR Analytics Dashboard](Power-BI-Power-Query/HR-Analytics-PowerBI/HR-Analytics.png)
+![HR Analytics Dashboard](HR-Analytics-PowerBI/HR-Analytics.png)
 
 **Learning Source:**
 
 This project was completed as a guided learning project based on a Power BI tutorial.
 
 [YouTube Tutorial](https://www.youtube.com/watch?v=QcTeeBrL6EY)
-
 ---
 
 # 📈 Excel & Power Query Projects
