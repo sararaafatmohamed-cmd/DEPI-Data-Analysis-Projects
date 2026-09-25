@@ -164,6 +164,20 @@ This project was completed as a guided learning project based on a Power BI tuto
 [YouTube Tutorial](https://www.youtube.com/watch?v=QcTeeBrL6EY)
 ---
 
+## 08. Healthcare Analytics Dashboard
+
+**Tools:** Power BI, Power Query, DAX
+
+A healthcare analytics project focused on patient demographics, medical conditions, admissions, hospitals, and billing analysis.
+
+[View Project →](Healthcare-Analytics-PowerBI/)
+
+**Dashboard Preview:**
+
+![Healthcare Analytics Dashboard](Healthcare-Analytics-PowerBI/Healthcare_dashboard.png)
+---
+
+
 # 📈 Excel & Power Query Projects
 
 ## 01. Bakery Sales
