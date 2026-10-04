@@ -56,4 +56,5 @@ The analysis goes beyond individual charts by connecting the findings into a dat
 ## Project Files
 
 * [Books_Analysis.pbix](Books_Analysis.pbix) — Power BI dashboard and analysis
-* [Books_Analysis_.pdf](Books_Analysis_.pdf) — Storytelling presentation and key insights
+* [View the Storytelling Presentation](https://canva.link/i1l4yo2uxvwt5n9) — Full presentation and key insights
+
