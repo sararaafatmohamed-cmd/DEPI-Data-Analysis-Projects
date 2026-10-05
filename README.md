@@ -1,322 +1,176 @@
 # 📊 DEPI Data Analysis Projects
 
-A collection of Data Analysis projects completed during **DEPI training**, covering **Power BI, Power Query, Excel, SQL, and data modeling**.
+A collection of selected **Data Analysis projects developed during my DEPI training**, focusing on **SQL, Power BI, Power Query, DAX, Excel, data modeling, and data visualization**.
+
+These projects showcase my ability to transform raw data into **interactive dashboards, meaningful insights, and data-driven stories**.
 
 ---
 
-# 📊 Power BI & Power Query Projects
+# 🚀 Featured Projects
 
-## 01. Video Game Sales
+## 01. 📚 Goodreads Books Analysis
 
-**File:** [Up_T1_S1_Video_Game_Sales.pbix](Power-BI-Power-Query/Power-BI-Power-Query/Up_T1_S1_Video_Game_Sales.pbix)
+**Tools:** Power BI · Power Query · DAX
 
-**Tools:** Power BI, Power Query
+An interactive analysis of books and ratings, exploring authors, publication years, languages, and rating patterns.
 
-A sales analysis project focused on data cleaning, star schema modeling, and data visualization.
-
-**Key Tasks:**
+**Highlights:**
 
 * Data cleaning and transformation
-* Replacing errors
-* Building a star schema
-* Creating fact and dimension tables
-* Data modeling and relationships
-* Sales analysis and visualization
-
-**Data Model:**
-
-* Fact_Sales
-* Dim_Game
-* Dim_Platform
-* Dim_Publisher
-* Dim_Year
-
----
-
-## 02. Sales Orders
-
-**File:** [S2_Sales_Orders.pbix](Power-BI-Power-Query/Power-BI-Power-Query/S2_Sales_Orders.pbix)
-
-**Tools:** Power BI, Power Query
-
-A data transformation and modeling project based on a messy sales dataset.
-
-**Key Tasks:**
-
-* Data cleaning and transformation
-* Creating custom columns
-* Working with dates using locale
-* Splitting columns by delimiter
-* Pivoting and unpivoting data
-* Removing duplicates
-* Building a star schema
-* Creating relationships between tables
-
-**Data Model:**
-
-* Fact_Sales_Orders
-* Dim_Customer
-* Dim_Location
-* Dim_Product
-* Dim_Category
-
----
-
-## 03. Car Sales
-
-**File:** [T2_S2_Car_Sales.pbix](Power-BI-Power-Query/Power-BI-Power-Query/T2_S2_Car_Sales.pbix)
-
-**Tools:** Power BI, Power Query
-
-A car sales analysis project focused on data cleaning, modeling, and sales visualization.
-
-**Key Tasks:**
-
-* Data cleaning and transformation
-* Creating surrogate keys
-* Creating price categories
-* Building a Date dimension
-* Data modeling and relationships
-* Sales analysis and visualization
-
-**Data Model:**
-
-* Fact_Sales_2022
-* Dim_Cars
-* Dim_Customer
-* Dim_Seller
-* Dim_Date
-
----
-
-## 04. Coffee Sales
-
-**File:** [Up_T3_S2_Coffee_Sales.pbix](Power-BI-Power-Query/Power-BI-Power-Query/Up_T3_S2_Coffee_Sales.pbix)
-
-**Tools:** Power BI, Power Query
-
-A coffee sales project focused on data profiling, transformation, modeling, and visualization.
-
-**Key Tasks:**
-
-* Data profiling and cleaning
-* Removing sensitive Card Number data
-* Appending tables
-* Creating the final fact table
-* Creating price categories
-* Cleaning and transforming text
-* Creating time periods
-* Building a Date dimension
-* Data modeling and visualization
-
-**Data Model:**
-
-* Fact_Final_Coffee_Sales
-* Dim_Date
-
----
-
-## 05. Pizza Sales – SQL & Power BI
-
-**Tools:** SQL Server, Power BI
-
-An end-to-end sales analysis project using SQL Server and Power BI.
-
-[View Project →](Pizza-Sales-SQL-PowerBI/)
+* Data modeling
+* DAX measures
+* Rating analysis
+* Author and language analysis
+* Publication year trends
+* Interactive dashboard
+* Data storytelling
 
 **Dashboard Preview:**
 
-![Pizza Dashboard 1](Pizza-Sales-SQL-PowerBI/Pizza_Dashboard_1.png)
+![Goodreads Books Dashboard](Goodreads-Books-Analysis/goodreads1.png)
 
+[🔗 View Project →](Goodreads-Books-Analysis/)
 
 ---
 
-## 06. Books Sales & Ratings
+## 02. 🍕 Pizza Sales — SQL & Power BI
 
-**Tools:** Power BI, Power Query
+**Tools:** SQL Server · Power BI · DAX
 
-A Power BI project focused on book sales, publisher revenue, ratings, authors, genres, languages, and publishing trends.
+An end-to-end sales analysis project combining SQL Server and Power BI to evaluate sales performance and identify business trends.
 
-[View Project →](Books-Sales-PowerBI/)
+**Highlights:**
+
+* SQL data analysis
+* Revenue and order analysis
+* Sales by category and pizza type
+* Daily and monthly sales trends
+* KPI development
+* Interactive dashboard
 
 **Dashboard Preview:**
 
-![Books Dashboard](Books-Sales-PowerBI/Books_Dashboard_2.png)
+![Pizza Sales Dashboard](Pizza-Sales-SQL-PowerBI/Pizza_Dashboard_1.png)
+
+[🔗 View Project →](Pizza-Sales-SQL-PowerBI/)
 
 ---
 
-## 07. HR Analytics Dashboard
+## 03. 🏥 Healthcare Analytics
 
-**Tools:** Power BI, Power Query
+**Tools:** Power BI · Power Query · DAX
 
-An HR analytics project focused on employee data, workforce distribution, demographics, departments, hiring trends, and key HR metrics.
+An interactive healthcare dashboard analyzing patient admissions, medical conditions, hospitals, and billing data.
 
-[View Project →](HR-Analytics-PowerBI/)
+**Highlights:**
+
+* Data cleaning and transformation
+* Healthcare KPI analysis
+* Patient analysis
+* Medical condition analysis
+* Hospital analysis
+* Admission trends
+* Interactive dashboard
+
+**Dashboard Preview:**
+
+![Healthcare Analytics Dashboard](Healthcare-Analytics-PowerBI/Healthcare_dashboard.png)
+
+[🔗 View Project →](Healthcare-Analytics-PowerBI/)
+
+---
+
+## 04. 👥 HR Analytics
+
+**Tools:** Power BI · Power Query · DAX
+
+An HR analytics dashboard exploring employee demographics, departments, workforce distribution, hiring trends, and key HR metrics.
+
+**Highlights:**
+
+* Employee data analysis
+* Workforce distribution
+* Demographic analysis
+* Department analysis
+* Hiring trends
+* HR KPIs
+* Interactive dashboard
 
 **Dashboard Preview:**
 
 ![HR Analytics Dashboard](HR-Analytics-PowerBI/HR-Analytics.png)
 
-**Learning Source:**
+[🔗 View Project →](HR-Analytics-PowerBI/)
 
-This project was completed as a guided learning project based on a Power BI tutorial.
-
-[YouTube Tutorial](https://www.youtube.com/watch?v=QcTeeBrL6EY)
 ---
 
-## 08. Healthcare Analytics Dashboard
+## 05. 🛒 Superstore 2019
 
-**Tools:** Power BI, Power Query, DAX
+**Tools:** Excel · Power Query · Power Pivot
 
-A healthcare analytics project focused on patient demographics, medical conditions, admissions, hospitals, and billing analysis.
+A sales and profitability analysis project built using a structured Excel data model to explore sales, profit, customers, products, and shipping performance.
 
-[View Project →](Healthcare-Analytics-PowerBI/)
+**Highlights:**
+
+* Data cleaning and transformation
+* Data modeling
+* Sales and profit analysis
+* Customer analysis
+* Product analysis
+* Shipping analysis
+* Interactive dashboard
 
 **Dashboard Preview:**
 
-![Healthcare Analytics Dashboard](Healthcare-Analytics-PowerBI/Healthcare_dashboard.png)
----
+![Superstore Dashboard](Superstore-2019/dashboard.png)
 
-
-# 📈 Excel & Power Query Projects
-
-## 01. Bakery Sales
-
-**File:** [Bakery trail 2.xlsx](Excel-Power-Query/Bakery-Sales/Bakery%20trail%202.xlsx)
-
-**Tools:** Excel, Power Query
-
-A sales analysis project focused on data cleaning, transformation, time dimensions, and sales summaries.
-
-**Key Tasks:**
-
-* Data profiling and cleaning
-* Creating Date and Time dimensions
-* Unpivoting product columns
-* Merging price information
-* Calculating total sales
-* Handling null values
-* Creating slicers and conditional formatting
-* Creating sales summaries
-
-**Project Preview:**
-
-![Bakery Sales Summary 1](Excel-Power-Query/Bakery-Sales/Summary_1.png)
-
-![Bakery Sales Summary 2](Excel-Power-Query/Bakery-Sales/Summary_2.png)
+[🔗 View Project →](Superstore-2019/)
 
 ---
 
-## 02. Sales Performance
+## 06. 🚕 Uber Analytics
 
-**File:** [Model1 Trial1.xlsx](Excel-Power-Query/Sales-Performance/Model1%20Trial1.xlsx)
+**Tools:** Power BI · Power Query · DAX
 
-**Tools:** Excel, Power Query
+An interactive Power BI dashboard analyzing Uber trip data to identify patterns across time, locations, trips, and key performance indicators.
 
-A sales analysis project focused on data cleaning, data modeling, shipping analysis, and Pivot Tables.
-
-**Key Tasks:**
+**Highlights:**
 
 * Data cleaning and transformation
-* Handling dates using locale
-* Creating a Fact Orders table
-* Creating Customer, Location, Product, Order Date, and Ship Date dimensions
-* Calculating Shipping Days
-* Building a Data Model
-* Creating Pivot Tables
-* Answering business questions through analysis
+* Trip analysis
+* Revenue analysis
+* Time-based analysis
+* Location analysis
+* KPI development
+* Interactive dashboard
 
-**Project Preview:**
+**Dashboard Preview:**
 
-![Sales Performance - Analysis 1](Excel-Power-Query/Sales-Performance/Pivot_Analysis_1.png)
+![Uber Analytics Dashboard](Uber-Analytics-PowerBI/Uber_Dashboard2.png)
 
-![Sales Performance - Analysis 2](Excel-Power-Query/Sales-Performance/Pivot_Analysis_2.png)
-
-![Sales Performance - Analysis 3](Excel-Power-Query/Sales-Performance/Pivot_Analysis_3.png)
-
----
-
-## 03. Superstore 2019
-
-**Tools:** Excel, Power Query, Power Pivot
-
-A sales and profit analysis project using a structured Excel data model and interactive dashboard.
-
-[View Project →](Superstore-2019/)
-
-**Key Insights:**
-
-* 🥇 High Speed Automatic Electric Letter Opener had the highest sales at **$17,030.31**
-* 📅 November recorded the highest monthly sales at **$352,461**
-* 📉 February recorded the lowest monthly sales at **$59,751**
-* 🏷️ Labels generated the highest share among the categories
-
-**Project Preview:**
-
-![Superstore 2019 Dashboard](Superstore-2019/dashboard.png)
-
----
-
-## 04. Pizza Sales
-
-**Tools:** Excel, Power Query
-
-A sales analysis project based on multiple source tables, data transformation, Pivot Tables, and visualization.
-
-[View Project →](Excel-Power-Query/Pizza-Sales/)
-
-**Project Preview:**
-
-![Pizza Sales - Analysis 1](Excel-Power-Query/Pizza-Sales/Chart_Pivot_1.png)
-
-![Pizza Sales - Analysis 2](Excel-Power-Query/Pizza-Sales/Chart_Pivot_2.png)
-
-![Pizza Sales - Analysis 3](Excel-Power-Query/Pizza-Sales/Chart_Pivot_3.png)
-
-![Pizza Sales - Analysis 4](Excel-Power-Query/Pizza-Sales/Chart_Pivot_4.png)
-
----
-
-# 🗄️ SQL Projects
-
-## SQL Training – IT Gate
-
-A collection of SQL Server training exercises and database projects covering SQL fundamentals and relational database concepts.
-
-[View Repository →](https://github.com/sararaafatmohamed-cmd/SQL-Training-IT-Gate)
-
-**Topics include:**
-
-* SQL fundamentals
-* Primary and Foreign Keys
-* Table relationships
-* Aggregate functions
-* GROUP BY
-* Subqueries
-* Joins
-* Many-to-many relationships
-* Database design
+[🔗 View Project →](Uber-Analytics-PowerBI/)
 
 ---
 
 # 🛠️ Tools & Technologies
 
-* Power BI
-* Power Query
-* Microsoft Excel
-* Power Pivot
-* SQL Server
-* Data Cleaning
-* Data Transformation
-* Data Modeling
-* Data Visualization
-* Star Schema
+| Category             | Tools                                                                                                |
+| -------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Data Analysis**    | SQL · Power BI · DAX                                                                                 |
+| **Data Preparation** | Power Query · Excel                                                                                  |
+| **Data Modeling**    | Star Schema · Power Pivot                                                                            |
+| **Visualization**    | Power BI · Excel                                                                                     |
+| **Core Skills**      | Data Cleaning · Data Transformation · Data Visualization · Business Insights · Dashboard Development |
 
 ---
 
-# 👩‍💻 Author
+# 👩‍💻 About Me
 
 **Sara Raafat**
+Business Information Systems Student | Aspiring Data Analyst
 
-Business Information Systems Student
-Aspiring Data Analyst
+I am passionate about turning raw data into **clear visualizations, meaningful insights, and data-driven stories**.
+
+My main focus is **Data Analysis, SQL, and Power BI**, with a strong interest in building practical analytical solutions.
+
+---
