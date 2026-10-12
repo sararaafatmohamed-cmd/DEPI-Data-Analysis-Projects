@@ -1,91 +1,108 @@
-
 # 🎬 Netflix Content Analysis | Power BI
 
 ## 📌 Project Overview
 
-This project explores Netflix's content catalog using Power BI to analyze the distribution of movies and TV shows, content ratings, genres, countries, and release trends.
+This project explores Netflix's content catalog using Power BI to analyze content distribution, ratings, genres, countries, and release trends.
 
-The project transforms raw data into an interactive dashboard to uncover patterns in Netflix's content library and present findings through clear and meaningful visualizations.
+The project combines data preparation, data modeling, interactive dashboards, and data storytelling to transform raw data into meaningful visual insights.
 
 ## 🎯 Project Objectives
 
 - Analyze the distribution of Movies and TV Shows.
-- Explore the most common content ratings.
-- Identify the leading genres by number of titles.
-- Examine content distribution across countries.
+- Explore content ratings and genre popularity.
+- Examine Netflix content distribution across countries.
 - Analyze content release trends over time.
-- Present insights through interactive Power BI dashboards.
+- Communicate analytical findings through interactive visualizations and a Canva presentation.
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI Desktop** — Dashboard development and data visualization.
+- **Power BI Desktop** — Dashboard development and visualization.
 - **Power Query** — Data cleaning and transformation.
 - **DAX** — Measures and analytical calculations.
 - **Data Modeling** — Organizing data for analysis.
-- **Data Visualization** — Presenting trends and patterns.
+- **Canva** — Visual storytelling and presentation design.
 
 ## 🧹 Data Preparation
 
-The dataset was prepared for analysis through the following steps:
+The dataset was prepared for analysis using Power Query and Power BI.
 
-- Reviewed the dataset structure and data types.
-- Cleaned and transformed selected columns using Power Query.
-- Examined missing values in fields such as country, director, and cast.
-- Prepared the data for analysis and visualization.
-- Organized the data model to support the dashboard's analytical requirements.
+Key preparation activities included:
+
+- Reviewing the dataset structure and data types.
+- Cleaning and transforming selected columns.
+- Examining missing values in fields such as country, director, and cast.
+- Preparing the data for analysis and visualization.
+- Organizing the data model to support analytical requirements.
 
 ## 📊 Dashboard Preview
 
-### Dashboard Home
+### 1. Home Page
 
-![Netflix Dashboard](Netflix_Dashboard.png)
+The main entry point to the Netflix analysis report.
 
-### Content Analysis
+![Netflix Home Page](Netflix_Dashboard.png)
 
-![Netflix Dashboard 1](Netflix_Dashboard1.png)
+### 2. Content Analysis
 
-### Country Analysis
+Explores content ratings, genres, and release trends to identify patterns in Netflix's content catalog.
 
-![Netflix Dashboard 2](Netflix_Dashboard2.png)
+![Netflix Content Analysis](Netflix_Dashboard1.png)
 
-## 💡 Business Questions
+### 3. Country Analysis
+
+Examines the geographical distribution of Netflix content across countries.
+
+![Netflix Country Analysis](Netflix_Dashboard2.png)
+
+## 📖 Data Storytelling & Insights
+
+A Canva presentation accompanies the Power BI report to communicate the analytical findings through visual storytelling.
+
+The presentation highlights the main patterns identified in the dataset and connects the visual analysis to meaningful observations about Netflix's content catalog.
+
+📄 **[View Netflix Analysis Insights (PDF)](Netflix_Analysis_Insights.pdf)**
+
+## ❓ Business Questions
 
 This project explores the following questions:
 
-1. What is the distribution of Movies and TV Shows on Netflix?
-2. Which content ratings appear most frequently?
+1. How is Netflix's content distributed between Movies and TV Shows?
+2. Which content ratings are most common?
 3. Which genres have the highest number of titles?
-4. How is Netflix content distributed across countries?
+4. How is content distributed across countries?
 5. How have content releases changed over time?
 6. What patterns can be identified in Netflix's content catalog?
 
 ## 📈 Key Analytical Areas
 
 - **Content Distribution:** Comparing Movies and TV Shows.
-- **Content Ratings:** Examining the distribution of ratings.
+- **Content Ratings:** Exploring the frequency of different ratings.
 - **Genre Analysis:** Identifying the most common genres.
-- **Geographical Analysis:** Exploring content distribution by country.
-- **Release Trends:** Analyzing content across different years and decades.
+- **Country Analysis:** Examining geographical content distribution.
+- **Release Trends:** Exploring content releases across years and decades.
+- **Data Storytelling:** Presenting findings through a dedicated Canva presentation.
 
 ## 📁 Project Files
 
 | File | Description |
 |---|---|
 | `Netflix_Analysis.pbix` | Power BI report |
-| `Netflix_Dashboard.png` | Dashboard screenshot |
-| `Netflix_Dashboard1.png` | Dashboard screenshot |
-| `Netflix_Dashboard2.png` | Dashboard screenshot |
+| `Netflix_Dashboard.png` | Home page screenshot |
+| `Netflix_Dashboard1.png` | Content analysis screenshot |
+| `Netflix_Dashboard2.png` | Country analysis screenshot |
+| `Netflix_Analysis_Insights.pdf` | Canva insights presentation |
 
 ## 🧠 Skills Demonstrated
 
 - Data Cleaning and Transformation
+- Power Query
 - Data Modeling
 - DAX Measures
 - KPI Development
-- Interactive Dashboard Design
 - Exploratory Data Analysis
+- Interactive Dashboard Design
 - Data Visualization
-- Analytical Thinking and Data Storytelling
+- Data Storytelling
 
 ## 👩‍💻 Author
 
@@ -97,4 +114,4 @@ Business Information Systems Student | Aspiring Data Analyst
 
 ---
 
-*This project was developed as part of my data analysis learning journey, with a focus on Power BI, data preparation, and interactive reporting.*
+*This project is part of my data analysis learning journey, focusing on Power BI, data preparation, visualization, and storytelling.*
