@@ -42,6 +42,20 @@ Examines imports, exports, inflation, and economic growth to compare economic pe
 - Conditional formatting to highlight indicator differences.
 - Interactive filtering between visuals.
 
+- ## 📊 Dashboard Preview
+
+### Page 1 — Executive Overview
+![Executive Overview](Mini_Project_3_Dashboard.png)
+
+### Page 2 — Health Analysis
+![Health Analysis](Mini_Project_3_Dashboard_1.png)
+
+### Page 3 — Economic Performance
+![Economic Performance](Mini_Project_3_Dashboard_2.png)
+
+### Page 4 — Dashboard
+![Dashboard](Mini_Project_3_Dashboard_3.png)
+
 ## 📁 Project Files
 
 | File | Description |
