@@ -47,9 +47,12 @@ The tables are connected through relationships to support structured and efficie
 
 ## Dashboard Preview
 
-### Home Page
+# Vehicle Insurance Data Analysis
 
-![Dashboard Preview](Screenshots/Vehicle-Insurance_Dashboard.png)
+## Project Overview
+
+![Home Page](Screenshots/Vehicle-Insurance_Dashboard.png)
+
 
 ### 1. Executive Overview
 
