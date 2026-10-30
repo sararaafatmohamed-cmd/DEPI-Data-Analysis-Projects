@@ -47,6 +47,10 @@ The tables are connected through relationships to support structured and efficie
 
 ## Dashboard Preview
 
+### Home Page
+
+![Dashboard Preview](Screenshots/Vehicle-Insurance_Dashboard.png)
+
 ### 1. Executive Overview
 
 Provides an overview of the company's customer base, policies, premiums, and claims.
@@ -59,9 +63,6 @@ Focuses on customer characteristics, premiums, claims, and marketing campaign re
 
 ![Customer & Marketing Insights](Screenshots/Vehicle-Insurance_Dashboard_2.png)
 
-### Additional Dashboard Screenshot
-
-![Dashboard Preview](Screenshots/Vehicle-Insurance_Dashboard.png)
 
 ## Key Insights
 
